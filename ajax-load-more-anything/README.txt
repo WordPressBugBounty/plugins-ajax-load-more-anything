@@ -2,7 +2,7 @@
 Contributors: mdshuvo, addonmaster
 Tags: infinite scroll, ajax load more, ajax pagination, load more, ajax
 Requires at least: 4.6
-Tested up to: 6.5.2
+Tested up to: 6.6.2
 Stable tag: 3.3.8
 Requires PHP: 5.6
 License: GPLv2 or later
