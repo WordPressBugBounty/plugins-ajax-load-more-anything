@@ -1,36 +1,20 @@
-=== Load More Anything ===
-Contributors: mdshuvo, addonmaster
-Tags: infinite scroll, ajax load more, ajax pagination, load more, ajax
-Requires at least: 4.6
-Tested up to: 6.8.3
-Stable tag: 3.3.9
-Requires PHP: 5.6
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-Add Load More button for your blog post, custom type, Comments, page, Category, Recent Posts, Woocommerce Product, custom Div or whatever you want.
-
-== Description ==
+# Load More Anything WordPress Plugin
 
 A awesome plugin that helps you to Load More Anything on your WordPress Website. You can use the Load More button for your blog post, Comments, page, Category, Recent Posts, Sidebar widget Data, Woocommerce products, Images, Photos, Videos, custom Div, or whatever you want.
 
 ### Infinite Scroll
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sfo6QF3GL-s" title="Ajax Pagination Infinite Scroll WordPress Post - Ajax Load More Anything WordPress Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can use this plugin to Load your blog posts without reloading the whole page! You can use default pagination, Infinite Scroll, and Custom button to load the blog posts. when you scroll the page posts will be loaded automatically.
 [View Demo](https://plugins.addonmaster.com/ajax-load-more-anything/blog/)
 
 ### Load WordPress Comments
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYsj-JJn3WY" title="Ajax Load WordPress Blog Comments - Ajax Load More Anything WordPress Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Does your site have too many comments or reviews? No problem, You can load post comments or Product reviews without reloading the page.
 [View Demo](https://plugins.addonmaster.com/ajax-load-more/long-comments/)
 
 ### WooCommerce Products Ajax Pagination
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ppSO1OmSRXI" title="Ajax Pagination Infinite Scroll WooCommerce Products - Ajax Load More Anything WordPress Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can use this plugin to Load your WooCommerce Products without reloading the whole page! You can use the default pagination, Infinite Scroll, and Custom button.
 [View Demo](https://plugins.addonmaster.com/ajax-load-more/store/) 
@@ -41,23 +25,16 @@ A load more button will help you to load more respited content, you can define h
 
 ### Load more List items
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vdkC-6ovzK8" title="Load More List items - Ajax Load More Anything WordPress Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 From a long list of data, you can short the data list by limiting how many items will be loaded initially. The load more button will load data step by step.
 [View Demo](https://plugins.addonmaster.com/ajax-load-more/load-more-list/)
 
 ### Load More Table Rows
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TbfzhThUe48" title="Load More Table Table Content - Ajax Load More Anything WordPress Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Do you have lots of data in a table? load more anything plugin can make the table short and you can load the table data by clicking on the load more button.
 [View More](https://plugins.addonmaster.com/ajax-load-more/load-more-table-data/)
 
 ### Load Almost Anything
 If you have any suitable wrapper then you can apply load more functionaly there. 
-
-### Works with any Theme
-Load More Anything works with any theme. You can use it with any theme. It's fully compatible with any theme.
 
 
 ### Features:
@@ -74,9 +51,6 @@ Load More Anything works with any theme. You can use it with any theme. It's ful
 * Feels like a Headless Website 
 * Update Browser URL on Ajax Load (*Available in Pro*)
 * Update Page Title on Ajax Load (*Available in Pro*)
-* Data Implement Type: Replace Data, Insert After, Insert Before
-* Ajax Preloader
-* Infinite Scroll Trigger Offset Control (*Available in Pro*)
 * Custom CSS and JS
 
 
@@ -110,23 +84,16 @@ Load More Anything works with any theme. You can use it with any theme. It's ful
 
 ### Documentation and Support
 
-- For documentation and tutorials go to our [Documentation](https://addonmaster.com/docs-category/load-more-anything/).
-- Submit A Ticket from [Here](https://addonmaster.com/submit-a-ticket/).
+- For documentation and tutorials go to our [Documentation](https://addonmaster.com/docs-category/load-more-anything/). 
 - If you have any more questions, visit our support on the [Plugin's Forum](https://wordpress.org/support/plugin/ajax-load-more-anything).
 
 ### Happy User of Load More Anything?
 
-- Rate us on [WordPress](https://wordpress.org/support/plugin/ajax-load-more-anything/reviews/?filter=5#new-post) :)
-
-== Privacy Policy ==
-Post Grid Master uses [Appsero](https://appsero.com) SDK to collect some telemetry data upon user confirmation. This helps us troubleshoot problems faster and make product improvements.
-
-Appsero SDK **does not gather any data by default**. It starts collecting basic telemetry data **only when a user allows it via admin notice**.  
-
-Learn more about [how Appsero collects and uses data](https://appsero.com/privacy-policy/).
+- Join our [Facebook Group](https://www.facebook.com/groups/addonmaster/).
+- Or rate us on [WordPress](https://wordpress.org/support/plugin/ajax-load-more-anything/reviews/?filter=5#new-post) :)
 
 
-== Installation ==
+## Installation
 How to install Load More Anything.
 
 1. Navigate to the 'Add New' in the plugins dashboard
@@ -136,45 +103,40 @@ How to install Load More Anything.
 
 
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= How can I show the count button? =
+**How can I show the count button?**
+>Use +[count] More in button label so it will be show like this: +15 More
 
-Use +[count] More in button label so it will be show like this: +15 More
+**How I use this**
+>Just find the correct selector of the suitable wrapper and insert them in the Plugin Option Panel. The rest will be done by our plugin. More info in the documentation [Here](https://addonmaster.com/docs-category/load-more-anything/)
 
-= How I use this =
+**I can't find the selector for my website. Can you help?**
+>Please Submit A Support Ticket from [Here](https://addonmaster.com/submit-a-ticket/)(conditions apply)
 
-Just find the correct selector of the suitable wrapper and insert them in the Plugin Option Panel. The rest will be done by our plugin.
+**Do you have documentation for this plugin?**
+>Yes. You can find the Documentation [Here](https://addonmaster.com/docs-category/load-more-anything/)
 
-= I can't find the selector for my website. Can you help? =
+**Questions/Suggestions/Support?**
+>Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-more-anything/)
 
-Please Submit A Support Ticket from [Here](https://addonmaster.com/submit-a-ticket/)(conditions apply)
+## Screenshots
+1. [Features Overview] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-1.png)
+2. [Dashboard Features List] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-2.png)
+3. [Dashboard General Wrapper Fields] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-3.png)
+4. [Dashboard Ajax Wrapper Fields] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-4.png)
+5. [Infinite Scroll] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-5.gif)
+6. [Load WordPress Comments] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-6.gif)
+7. [WooCommerce Products Ajax Pagination] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-7.gif)
+8. [Load More Button] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-8.png)
+9. [Load more List items] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-9.gif)
+10. [Load More Table Rows] (https://ps.w.org/ajax-load-more-anything/assets/screenshot-10.gif)
 
-= Do you have documentation for this plugin? =
 
-Yes. You can find the Documentation [Here](https://addonmaster.com/docs-category/load-more-anything/)
 
-= Questions/Suggestions/Support?  =
-
-Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-more-anything/)
-
-== Screenshots ==
-1. Features Overview
-2. Dashboard Features List
-3. Dashboard General Wrapper Fields
-4. Dashboard Ajax Wrapper Fields
-5. Infinite Scroll
-6. Load WordPress Comments
-7. WooCommerce Products Ajax Pagination
-8. Load More Button
-9. Load more List items
-10. Load More Table Rows
-
+## Changelog
 
 == Changelog ==
-
-= 3.3.9 – Nov 20, 2025 =
-- Checked with Latest WordPress
 
 = 3.3.8 – Apr 16, 2024 =
 - Code Improvements
@@ -186,7 +148,6 @@ Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-m
 - Added: Disable jQuery Dependency option (This option is helpfull for some website where jQuery is not working properly)
 - Fixed: Elementor Editor Issue
 - Checked with Latest WordPress
-
 
 = 3.3.6 – Mar 21, 2024 =
 - Code Improvement
@@ -205,12 +166,6 @@ Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-m
 = 3.3.3 - Dec 26, 2023 =
 - Tested up to: 6.4.2
 
-= 3.3.2 - Oct 26, 2023 =
-- Tested up to: 6.3
-
-= 3.3.1 - Apr 04, 2023 =
-- Tested up to: 6.2
-
 = 3.2.0 - Feb 09, 2023 =
 - WordPress 6.1.1 Compatibility
 - Code Optimize
@@ -219,7 +174,6 @@ Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-m
 - WordPress 6.0.3 Compatibility
 - Fix: Pro modal
 - Code Optimize
-
 
 = 3.0.0 - Oct 10, 2022 =
 - WordPress 6.0.2 Compatibility
@@ -235,11 +189,9 @@ Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-m
 - Ajax Usages on Comments, Custom Post Type, WooCommerce, Products, Easy Digital Downloads, Posts, Pages, Archives, Search Results, Mostly Anywhere
 
 
-= 2.4.7 - Jan 31, 2022 =
-– WordPress 5.9 Compatibility
-
 = 2.4.0 = ( Feb 06, 2021 )
 - WordPress 5.6.1 Compatibility
+
 
 = 2.2.6 = ( Oct 12, 2020 )
 - Code Improvement
@@ -274,6 +226,4 @@ Create Topic in [Support forum](https://wordpress.org/support/plugin/ajax-load-m
 
 = 1.0 =
 - Initial release.
-
-
 
